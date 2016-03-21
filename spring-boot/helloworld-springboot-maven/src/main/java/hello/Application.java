@@ -12,7 +12,7 @@ public class Application {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Hello OSE World";
+		return "Hello DevBuild OpenShift World";
 	}
 
 
